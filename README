@@ -1,0 +1,14 @@
+=head1 NAME
+
+Mono RiveScript - Mono .Net RiveScript Implementation
+
+=head1 DESCRIPTION
+
+This is a simple implementation of perl RiveScript under
+Mono .Net Framework
+
+=head1 AUTHOR
+
+Daniel Vinciguerra - dan.vinciguerra at gmail.com
+
+=cut
