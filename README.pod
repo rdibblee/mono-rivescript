@@ -4,8 +4,8 @@ Mono RiveScript - Mono .Net RiveScript Implementation
 
 =head1 DESCRIPTION
 
-This is a simple implementation of perl RiveScript under
-Mono .Net Framework
+This implementation is a port of perl RiveScript module under
+Mono .Net Framework.
 
 =head1 AUTHOR
 
